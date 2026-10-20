@@ -1,3 +1,5 @@
+// Kirill Pushkin + Yonatan Yuryev
+
 const num = 150;
 
 const divByTwo = num % 2 == 0;

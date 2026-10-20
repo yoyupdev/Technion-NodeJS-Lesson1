@@ -1,3 +1,4 @@
+// Kirill Pushkin + Yonatan Yuryev
 const num = 237;
 
 let isPrimary = true;
