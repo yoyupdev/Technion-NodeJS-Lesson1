@@ -1,3 +1,4 @@
+// Yonatan Yuryev + Kirill Pushkin
 const path = require("path");
 const fs = require("fs");
 
